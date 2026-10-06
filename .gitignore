@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+.env.local
+
+# Sample APK can be re-downloaded; keep optional local override
+# apps/sample/ApiDemos-debug.apk
+
+# WebdriverIO / Appium
+logs/
+screenshots/
+allure-results/

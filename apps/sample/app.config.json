@@ -1,0 +1,9 @@
+{
+  "name": "ApiDemos",
+  "description": "Appium Android API Demos sample app (third-party APK under test)",
+  "android": {
+    "appPath": "apps/sample/ApiDemos-debug.apk",
+    "appPackage": "io.appium.android.apis",
+    "appActivity": "io.appium.android.apis.ApiDemos"
+  }
+}

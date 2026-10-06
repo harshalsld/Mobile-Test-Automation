@@ -1,0 +1,17 @@
+current directory: /Users/harshalsd/Downloads/MobileTestAutomation/vendor/bundle/ruby/2.6.0/gems/nkf-0.3.0/ext/nkf
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20261006-78864-ajw70g.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin25/rbconfig.rb:21: warning: Insecure world writable dir /Users/harshalsd/Downloads in PATH, mode 040777
+creating Makefile
+
+current directory: /Users/harshalsd/Downloads/MobileTestAutomation/vendor/bundle/ruby/2.6.0/gems/nkf-0.3.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/harshalsd/Downloads/MobileTestAutomation/vendor/bundle/ruby/2.6.0/gems/nkf-0.3.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: search path '/AppleInternal/Library/BuildRoots/4~CVSEugD5ktN3nyXCcfzB0fqCX93ITcKCAbgDzFk/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.6.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/harshalsd/Downloads/MobileTestAutomation/vendor/bundle/ruby/2.6.0/gems/nkf-0.3.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20261006-78864-f135q
